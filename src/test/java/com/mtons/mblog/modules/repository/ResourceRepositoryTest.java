@@ -1,7 +1,8 @@
 package com.mtons.mblog.modules.repository;
 
-import com.mtons.mblog.modules.entity.Resource;
 import com.mtons.mblog.BootApplication;
+import com.mtons.mblog.modules.entity.Resource;
+
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
