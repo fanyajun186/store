@@ -7,7 +7,7 @@ import com.mtons.mblog.study.service.Fighter;
 @Service
 public class Pear implements Fighter {
     public void fight(){
-        System.out.println("Billy：吾乃新日暮里的王，三界哲学的主宰。");
+        System.out.println("Pear：亚历山大。");
 
     }
 }
